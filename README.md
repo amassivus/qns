@@ -1,5 +1,6 @@
 Network Services Calculation Framework
-Copyright (C) 2020 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+
+Copyright (C) 2020,2021 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
@@ -19,6 +20,7 @@ For support support at massscollabs dot com
 For security security at masscollabs dot com
 
 # qns
+
 qns network calculation for datacenters and the cloud framework by Masscollabs Services and it's community branches
 
 
